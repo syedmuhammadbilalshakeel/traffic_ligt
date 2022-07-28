@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    /* overflow-x: hidden; */
+    /* background-color: rgb(254, 254, 254) ; */
+    /* background-image: url(https://us.123rf.com/450wm/robuart/robuart1811/robuart181102112/112403999-pedestrian-crossing-with-traffic-lights-sign-on-the-road-at-rural-countryside-vector-illustration-ho.jpg?ver=6);
+    image-resolution: 400px;
+    background-repeat: no-repeat;
+    /* padding-left: 900px; */
+    /* height: 100%;
+    width: 100%; */
+} 
+
+.section1 h1 {
+    text-align: center;
+    color: rgb(2, 2, 2);
+    margin-top: 100px;
+    padding-right: 100px;
+}
+
+.images1 {
+    width: 100px;
+    margin-left: 500px;
+}
+
+button {
+    position: relative;
+    left: 400px;
+    top: 20px;
+    width: 100px;
+    color: black;
+}
+
